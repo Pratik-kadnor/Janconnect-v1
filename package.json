@@ -1,0 +1,22 @@
+{
+  "name": "janconnect",
+  "version": "1.0.0",
+  "description": "JanConnect - PM-AJAY Scheme Management Portal",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "cd server && npm install",
+    "install-client": "cd client && npm install",
+    "install-all": "npm run install-server && npm run install-client",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm start",
+    "dev": "echo 'Please run server and client in separate terminals:' && echo 'Terminal 1: npm run server' && echo 'Terminal 2: npm run client'"
+  },
+  "keywords": [
+    "mern",
+    "pm-ajay",
+    "government",
+    "project-management"
+  ],
+  "author": "Ministry of Social Justice & Empowerment",
+  "license": "MIT"
+}
