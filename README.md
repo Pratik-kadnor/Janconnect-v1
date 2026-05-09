@@ -21,7 +21,7 @@ A comprehensive web portal for the Ministry of Social Justice & Empowerment to m
 - ✅ Real-time financial monitoring (Budget, Released, Utilized)
 - ✅ Interactive dashboards with charts and analytics
 - ✅ Advanced filtering and search capabilities
-- ✅ Document management system
+
 
 ### Technology Stack
 - **Frontend**: React 18, Redux Toolkit, TailwindCSS, Recharts
